@@ -1,0 +1,51 @@
+S.NO,Brand,Processor,RAM(GB),OperatingSystem,Storage(SSD),Frequency(Hz),GraphicsCard,Display,Warranty,Price,rating
+1,Lenovo Ideapad S145 ,Intel Core i5 Processor (10th Gen),8,64 bit Windows 10 Operating System,100,2,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,45000,3.9
+2,Lenovo Ideapad S23,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,256,3,BuiltIn,35.56 cm (14 Inch) Display,1 Year Onsite Warranty,48000,4.2
+3,HP Pentium Light lap,Intel Pentium Quad Core Processor,8,64 bit Windows 10 Operating System,256,4, Radeon RX,35.56 cm (14 inch) Display,1 Year Onsite Warranty,55000,4.6
+4,HP 14S Core,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,256,5,Radeon RX 6600 XT.,35.56 cm (14 inch) Display,1 Year Onsite Warranty,52000,3.5
+5,HP 15s Athlon ,AMD Athlon Dual Core Processor,4,64 bit Windows 10 Operating System,100,2,RX 7900 XTX,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35000,4.1
+6,Lenovo IdeaPad 3,Intel Core i5 Processor (10th Gen),8,64 bit Windows 10 Operating System,100,1,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,65000,4.2
+7,HP Pavilion Gaming Ryzen,AMD Ryzen 5 Quad Core Processor,8,64 bit Windows 10 Operating System,100,5,FHD gaming,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,45000,4.2
+8,acer Predator Helios 300 ,Intel Core i7 Processor (10th Gen),4,64 bit Windows 10 Operating System,500,6,Arc 450,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,48000,4.1
+9,ASUS VivoBook 15 ,Intel Core i3 Processor (10th Gen),8,64 bit Windows 10 Operating System,100,4,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,55000,4.2
+10,HP 15s Ryzen ,AMD Ryzen 3 Dual Core Processor,8,64 bit Windows 10 Operating System,100,5,BuiltIn,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,52000,4.4
+11,ASUS Vivobook Gaming ,Intel Core i5 Processor (9th Gen),8,64 bit Windows 10 Operating System,512,4, Radeon RX,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35000,4.3
+12,MSI GL65 Leopard,Intel Core i7 Processor (10th Gen),4,64 bit Windows 10 Operating System,500,5,Radeon RX 6600 XT.,39.62 cm (15.6 inch) Display,2 Year Warranty,65000,1.5
+13,acer Aspire 7 Ryzen ,AMD Ryzen 5 Quad Core Processor,8,64 bit Windows 10 Operating System,512,2,RX 7900 XTX,"Matrix Display, Dragon Center, Cooler Boost 5, Nahimic 3",1 Year International Travelers Warranty (ITW),42000,4.4
+14,HP 14s Core ,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,3,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35500,4.1
+15,HP 15s Core,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,100,4,FHD gaming,35.56 cm (14 inch) Display,1 Year Onsite Warranty,78000,4.1
+16,Lenovo IdeaPad14itl05 u2a Thin and Lig...,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,5,Arc 450,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,65000,4.4
+17,Avita Cosmos 2 in 1 Celeron ,Intel Celeron Dual Core Processor,4,64 bit Windows 10 Operating System,512,2,Ultra,35.56 cm (14 inch) Display,24 Months Warranty,45000,4
+18,HP 15sThin and Light Laptop,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,1,BuiltIn,29.46 cm (11.6 inch) Touchscreen Display,1 Year Onsite Warranty,48000,3
+19,acer Aspire 7 Ryzen,AMD Ryzen 5 Quad Core Processor,8,64 bit Windows 10 Operating System,512,5, Radeon RX,39.62 cm (15.6 inch) Display,1 Year International Travelers Warranty (ITW),55000,3
+20,Lenovo IdeaPad  Light Laptop,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,256,6,Radeon RX 6600 XT.,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,52000,5
+21,ASUS Ryzen 3 Dual Core - Thin and Light Laptop,AMD Ryzen 3 Dual Core Processor,4,64 bit Windows 10 Operating System,500,4,RX 7900 XTX,35.56 cm (14 inch) Display,1 Year Onsite Warranty,35000,4.6
+22,Lenovo Legion Core,Intel Core i7 Processor (9th Gen),8,64 bit Windows 10 Operating System,500,5,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,65000,5
+23,HP 15s Ryzen 3 ,AMD Ryzen 3 Dual Core Processor,8,64 bit Windows 10 Operating System,512,4,FHD gaming,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,45000,4
+24,Lenovo IdeaPad Ryzen 7 ,AMD Ryzen 7 Octa Core Processor,4,64 bit Windows 10 Operating System,500,5,Arc 450,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,48000,4.1
+25,HP 15s Core,Intel Core i3 Processor (10th Gen),8,64 bit Windows 10 Operating System,500,2,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,55000,4
+26,ASUS VivoBook 15 Thin,Intel Core i5 Processor (10th Gen),8,64 bit Windows 10 Operating System,512,3,BuiltIn,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,52000,5
+27,ASUS VivoBook Ultra 14  Thin and Light,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,100,4, Radeon RX,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35000,4.5
+28,Lenovo Ideapad S145 ,Intel Core i5 Processor (10th Gen),8,64 bit Windows 10 Operating System,512,5,Radeon RX 6600 XT.,35.56 cm (14 inch) Display,1 Year Onsite Warranty,65000,5
+29,acer Aspire 7 Core,Intel Core i5 Processor (9th Gen),8,64 bit Windows 10 Operating System,100,2,RX 7900 XTX,39.62 cm (15.6 inch) Display,1 Year International Travelers Warranty (ITW),42000,4
+30,Lenovo IdeaPad Core M31,Intel Core i3 Processor (10th Gen),4,64 bit Windows 10 Operating System,256,1,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35500,4.1
+31,APPLE MacBook Air M1,Intel Core i7 Processor (10th Gen),8,Mac OS Operating System,500,5,FHD gaming,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,78000,5
+32,acer Predator Helios 300 Cor,Intel Core i5 Processor (9th Gen),4,64 bit Windows 10 Operating System,512,6,Arc 450,33.78 cm (13.3 inch) Display,2 Years Carry In Warranty,65000,4
+33,MSI GF63 Thin Core i5,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,4,BuiltIn,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,55000,3
+34,HP 14s Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,5, Radeon RX,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,52000,2
+35,ASUS VivoBook Ultra 14 Core,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,256,4,Radeon RX 6600 XT.,35.56 cm (14 inch) Display,1 Year Onsite Warranty,35000,3
+36,Lenovo Ideapad S23,AMD Ryzen 5 Hexa Core Processor,8,64 bit Windows 10 Operating System,500,5,RX 7900 XTX,35.56 cm (14 inch) Display,1 Year Onsite Warranty,65000,3
+37,Lenovo IdeaPad Gaming Ryzen 5,AMD Ryzen 5 Quad Core Processor,8,64 bit Windows 10 Operating System,512,3,Ultra,35.56 cm (14 Inch) Display,1 Year Onsite Warranty,42000,3
+38,HP 15s Ryzen 5 Qore 3500U,Intel Core i3 Processor (11th Gen),8,64 bit Windows 10 Operating System,100,4,FHD gaming,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,35500,4
+39,HP 15s Core ,Intel Core i7 Processor (10th Gen),8,64 bit Windows 10 Operating System,500,5,Arc 450,39.62 cm (15.6 inch) Display,2 Year Warranty,78000,3.9
+40,MSI GL65 Leopard Core ,Intel Core i3 Processor (10th Gen),4,64 bit Windows 10 Operating System,512,2,Ultra,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,65000,4.4
+41,i3 10th Gen - ,Intel Core i5 Processor (11th Gen),4,64 bit Windows 10 Operating System,512,1,BuiltIn,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,45000,3.4
+42,ASUS VivoBook S S13,Intel Core i7 Processor (11th Gen),8,64 bit Windows 10 Operating System,150,5, Radeon RX,"Matrix Display, Dragon Center, Cooler Boost 5, Nahimic 3",1 Year Onsite Warranty,48000,4.7
+43,HP Pavilion Core,Intel Core i5 Processor (11th Gen),4,64 bit Windows 10 Operating System,512,6,Radeon RX 6600 XT.,35.56 cm (14 inch) Display,1 Year Onsite Warranty,55000,4.5
+44,Lenovo IdeaPad Core ,AMD Ryzen 3 Dual Core Processor,8,64 bit Windows 10 Operating System,100,4,RX 7900 XTX,33.78 cm (13.3 inch) Display,1 Year Onsite Warranty,52000,4.4
+45,Lenovo Ideapad S145 Ryzen 3,Intel Core i3 Processor (10th Gen),4,64 bit Windows 10 Operating System,100,5,Ultra,35.56 cm (14 inch) Display,1 Year Onsite Warranty,35000,4.3
+46,HP 14s Core ,Intel Celeron Dual Core Processor,4,64 bit Windows 10 Operating System,100,4,FHD gaming,35.56 cm (14 inch) Display,1 Year Onsite Warranty,65000,4.3
+47,ASUS Celeron ,Intel Core i3 Processor (11th Gen),4,64 bit Windows 10 Operating System,512,5,Arc 450,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,45000,4.5
+48,Lenovo IdeaPad Core 14ITL6,Intel Core i5 Processor (11th Gen),8,64 bit Windows 10 Operating System,512,2,Ultra,35.56 cm (14 inch) Display,1 Year Onsite Warranty,48000,4.3
+49,ASUS VivoBook Ultra 14 X413EA-EK511TS,AMD Ryzen 3 Dual Core Processor,8,64 bit Windows 10 Operating System,100,3,BuiltIn,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,55000,4.1
+50,Lenovo Ideapad S23,AMD Ryzen 3 Quad Core Processor,8,64 bit Windows 10 Operating System,256,4, Radeon RX,39.62 cm (15.6 inch) Display,1 Year Onsite Warranty,52000,3.9
